@@ -1,4 +1,4 @@
-# DiMDI: Dextran sodium sulfate(DSS)-induced Microbial Dysbiosis Index for microbiota study using mouse model
+# Maternal gut microbial legacy shapes intestinal health and susceptibility of offspring to colitis
 
 ## Overview
 **This page** contains all analysis codes used in the following publication:
