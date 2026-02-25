@@ -6,11 +6,6 @@
 Lee, JM., Kim, MJ., Lee, H. et al. Maternal gut microbial legacy shapes intestinal health and susceptibility of offspring to colitis. npj Biofilms Microbiomes (2026). https://doi.org/10.1038/s41522-026-00938-4
 
 
-## License
-This code is made available under the CC BY-NC 4.0 license for non-commercial research applications.
-For more details, see the [LICENSE](./LICENSE) file.
-
-
 ## DiMDI calculation
 The DSS-induced Microbial Dysbiosis Index (DiMDI) was calculated according to the previously published method. For DiMDI source code and detailed documentation, see the companion repository:
 👉 Use [minji-micro/dimdi](https://github.com/mjkim-micro/dimdi)
